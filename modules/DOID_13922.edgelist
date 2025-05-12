@@ -1,0 +1,6 @@
+HSPA1L HSPA1B {'weight': 847}
+HSPA1L HSPA1A {'weight': 625}
+HSPA1L VARS1 {'weight': 213}
+HSPA1B VARS1 {'weight': 213}
+HSPA1B HSPA1A {'weight': 975}
+VARS1 HSPA1A {'weight': 213}
