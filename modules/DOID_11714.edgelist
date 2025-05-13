@@ -1,3 +1,1 @@
-G6PC2 ADCY5 {'weight': 250}
-CEBPG CEBPA {'weight': 646}
-TCF7L2 CEBPA {'weight': 355}
+ADCY5 G6PC2 {'weight': 250}
