@@ -1,0 +1,6 @@
+HOXD10 EVX2 {'weight': 165}
+HOXD10 HOXD13 {'weight': 175}
+HOXD13 HOXD11 {'weight': 226}
+EVX2 HOXD11 {'weight': 188}
+ITGB5 MYL7 {'weight': 505}
+ITGB5 LTBP1 {'weight': 499}
